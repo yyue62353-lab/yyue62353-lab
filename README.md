@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**yyue62353-lab/yyue62353-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 杨添媛
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+大家好，我叫杨添媛，是广东工业大学计算机科学与技术专业的大三学生。
+
+目前主要学习和使用：
+
+- C
+- Java
+- Python
+- Git / GitHub
+- 软件工程
+
+我希望通过大学剩余时间逐渐提高自己的编程能力、软件工程实践能力和英语技术资料阅读能力。
+
+## 我的学习目标
+
+1. 掌握基本的软件工程方法
+2. 熟悉 Git 和 GitHub
+3. 提高 C、Java、Python 编程能力
+4. 培养独立解决问题的能力
+5. 记录自己的学习过程
+
+## 本课程
+
+这是我的软件工程课程 GitHub 仓库，用于保存课程相关代码、练习和学习记录。
